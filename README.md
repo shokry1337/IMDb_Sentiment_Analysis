@@ -1,9 +1,9 @@
-# IMDB Sentiment Analysis
+# IMDb Sentiment Analysis
 ## LLaMA 3.1 8B x GPT-4o-Mini
 
-This project explores the use of large language models for sentiment classification of movie reviews. By leveraging both the `LLaMA-3.1-8B` and the `GPT-4o-Mini` models via the `g4f` interface and comparing their performance.
+This project explores the use of large language models for sentiment classification of movie reviews. By leveraging both the `LLaMA-3.1-8B` and the `GPT-4o-Mini` models via the `g4f` interface, and comparing their performance.
 
-This notebook demonstrates an alternative to traditional supervised machine learning techniques by prompting generative models to act as zero-shot sentiment analyzers with no need of extra training, or fine-tuning.
+This notebook demonstrates an alternative technique to traditional supervised machine learning techniques by prompting generative models to act as zero-shot sentiment analyzers with no need of extra training, or fine-tuning.
 
 ---
 
